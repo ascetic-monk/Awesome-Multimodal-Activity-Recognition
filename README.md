@@ -1,6 +1,7 @@
 # Awesome-Multimodal-Activity-Recognition
 Some Awesome work on Multimodal Activity Recognition
 
+dataset for MMAR ( dataset which including Acc modalities is listed. )
 | Datasets | Classes | Instances | Subjects | Scene | Views | Modalities                             | Temporal Localization | Random Walk | Occlusion | Year |
 | -------- | ------- | --------- | -------- | ----- | ----- | -------------------------------------- | --------------------- | ----------- | --------- | :--: |
 | CMU-MMAC | 5       | 186       | 39       | 1     | 5     | RGB+D+Keypoints+Acc+Mic                | No                    | No          | No        | 2010 |
